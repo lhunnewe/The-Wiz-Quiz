@@ -1,47 +1,47 @@
-﻿Number,President,Posible1,Possible2,Possble3
-1,George Washington,Dwight D. Eisenhower,John Adams,Zachary Taylor
-2,John Adams,Abraham Lincoln,George Washington,Millard Fillmore
-3,Thomas Jefferson,John Adams,George Washington,Barack Obama
-4,James Madison,Theodore Roosevelt,John Tyler,Bill Clinton
-5,James Monroe,John Quincy Adams,Martin Van Buren,Calvin Coolidge
-6,John Quincy Adams,Calvin Coolidge,Andrew Jackson,Andrew Jackson
-7,Andrew Jackson,Martin Van Buren,John Adams,Rutherford B. Hayes
-8,Martin Van Buren,Jimmy Carter,Jimmy Carter,Barack Obama
-9,William Henry Harrison,John Tyler,Theodore Roosevelt,George W. Bush
-10,John Tyler,James A. Garfield,Grover Cleveland,Dwight D. Eisenhower
-11,James K. Polk,George Washington,William Henry Harrison,Lyndon B. Johnson
-12,Zachary Taylor,James Buchanan,Dwight D. Eisenhower,George W. Bush
-13,Millard Fillmore,James K. Polk,Franklin Pierce,Herbert Hoover
-14,Franklin Pierce,Thomas Jefferson,William McKinley,Millard Fillmore
-15,James Buchanan,William McKinley,William Henry Harrison,Richard Nixon
-16,Abraham Lincoln,Bill Clinton,Martin Van Buren,George H. W. Bush
-17,Andrew Johnson,Bill Clinton,Andrew Johnson,John Adams
-18,Ulysses S. Grant,Zachary Taylor,Millard Fillmore,Calvin Coolidge
-19,Rutherford B. Hayes,Thomas Jefferson,George H. W. Bush,William Henry Harrison
-20,James A. Garfield,John Tyler,John Quincy Adams,George W. Bush
-21,Chester A. Arthur,John Adams,James Buchanan,John Adams
-22,Grover Cleveland,Benjamin Harrison,James Monroe,John Tyler
-23,Benjamin Harrison,John F. Kennedy,George Washington,John Quincy Adams
-24,Grover Cleveland,Franklin D. Roosevelt,Zachary Taylor,Harry S. Truman
-25,William McKinley,George Washington,Jimmy Carter,Dwight D. Eisenhower
-26,Theodore Roosevelt,Warren G. Harding,Martin Van Buren,George H. W. Bush
-27,William Howard Taft,Herbert Hoover,Andrew Johnson,Richard Nixon
-28,Woodrow Wilson,Rutherford B. Hayes,Bill Clinton,John F. Kennedy
-29,Warren G. Harding,Jimmy Carter,Jimmy Carter,Bill Clinton
-30,Calvin Coolidge,Ulysses S. Grant,Andrew Johnson,James Madison
-31,Herbert Hoover,Millard Fillmore,Jimmy Carter,Lyndon B. Johnson
-32,Franklin D. Roosevelt,Lyndon B. Johnson,John Quincy Adams,John Quincy Adams
-33,Harry S. Truman,James A. Garfield,George W. Bush,Bill Clinton
-34,Dwight D. Eisenhower,James Monroe,Ronald Reagan,John F. Kennedy
-35,John F. Kennedy,Benjamin Harrison,James A. Garfield,Gerald Ford
-36,Lyndon B. Johnson,Millard Fillmore,Thomas Jefferson,Andrew Jackson
-37,Richard Nixon,Chester A. Arthur,Andrew Johnson,Thomas Jefferson
-38,Gerald Ford,Grover Cleveland,Andrew Johnson,Ronald Reagan
-39,Jimmy Carter,Andrew Jackson,Jimmy Carter,Rutherford B. Hayes
-40,Ronald Reagan,Herbert Hoover,Thomas Jefferson,Millard Fillmore
-41,George H. W. Bush,John F. Kennedy,Herbert Hoover,Ulysses S. Grant
-42,Bill Clinton,Grover Cleveland,Theodore Roosevelt,James K. Polk
-43,George W. Bush,Andrew Johnson,Andrew Jackson,Franklin D. Roosevelt
-44,Barack Obama,Franklin D. Roosevelt,Harry S. Truman,Lyndon B. Johnson
-44,Donald Trump,Warren G. Harding,Dwight D. Eisenhower,Woodrow Wilson
-45,Joe Biden,Donald Trump,Bill Clinton,Barack Obama
+﻿Index,Question,Answer,Possible1,Possible2,Possible3
+1,Who was the first President of the United States of America?,George Washington,Dwight D. Eisenhower,John Adams,Zachary Taylor
+2,Who was the second President of the United States of America?,John Adams,Abraham Lincoln,George Washington,Millard Fillmore
+3,Who was the third President of the United States of America?,Thomas Jefferson,John Adams,George Washington,Barack Obama
+4,Who was the fourth President of the United States of America?,James Madison,Theodore Roosevelt,John Tyler,Bill Clinton
+5,Who was the fifth President of the United States of America?,James Monroe,John Quincy Adams,Martin Van Buren,Calvin Coolidge
+6,Who was the sixth President of the United States of America?,John Quincy Adams,Calvin Coolidge,Andrew Jackson,Andrew Jackson
+7,Who was the seventh President of the United States of America?,Andrew Jackson,Martin Van Buren,John Adams,Rutherford B. Hayes
+8,Who was the eighth President of the United States of America?,Martin Van Buren,Jimmy Carter,Jimmy Carter,Barack Obama
+9,Who was the ninth President of the United States of America?,William Henry Harrison,John Tyler,Theodore Roosevelt,George W. Bush
+10,Who was the tenth President of the United States of America?,John Tyler,James A. Garfield,Grover Cleveland,Dwight D. Eisenhower
+11,Who was the eleventh President of the United States of America?,James K. Polk,George Washington,William Henry Harrison,Lyndon B. Johnson
+12,Who was the twelfth President of the United States of America?,Zachary Taylor,James Buchanan,Dwight D. Eisenhower,George W. Bush
+13,Who was the thirteenth President of the United States of America?,Millard Fillmore,James K. Polk,Franklin Pierce,Herbert Hoover
+14,Who was the fourteenth President of the United States of America?,Franklin Pierce,Thomas Jefferson,William McKinley,Millard Fillmore
+15,Who was the fifteenth President of the United States of America?,James Buchanan,William McKinley,William Henry Harrison,Richard Nixon
+16,Who was the sixteenth President of the United States of America?,Abraham Lincoln,Bill Clinton,Martin Van Buren,George H. W. Bush
+17,Who was the seventeenth President of the United States of America?,Andrew Johnson,Bill Clinton,Andrew Johnson,John Adams
+18,Who was the eighteenth President of the United States of America?,Ulysses S. Grant,Zachary Taylor,Millard Fillmore,Calvin Coolidge
+19,Who was the nineteenth President of the United States of America?,Rutherford B. Hayes,Thomas Jefferson,George H. W. Bush,William Henry Harrison
+20,Who was the twentieth President of the United States of America?,James A. Garfield,John Tyler,John Quincy Adams,George W. Bush
+21,Who was the twenty-first President of the United States of America?,Chester A. Arthur,John Adams,James Buchanan,John Adams
+22,Who was the twenty-second President of the United States of America?,Grover Cleveland,Benjamin Harrison,James Monroe,John Tyler
+23,Who was the twenty-third President of the United States of America?,Benjamin Harrison,John F. Kennedy,George Washington,John Quincy Adams
+24,Who was the twenty-fourth President of the United States of America?,Grover Cleveland,Franklin D. Roosevelt,Zachary Taylor,Harry S. Truman
+25,Who was the twenty-fifth President of the United States of America?,William McKinley,George Washington,Jimmy Carter,Dwight D. Eisenhower
+26,Who was the twenty-sixth President of the United States of America?,Theodore Roosevelt,Warren G. Harding,Martin Van Buren,George H. W. Bush
+27,Who was the twenty-seventh President of the United States of America?,William Howard Taft,Herbert Hoover,Andrew Johnson,Richard Nixon
+28,Who was the twenty-eighth President of the United States of America?,Woodrow Wilson,Rutherford B. Hayes,Bill Clinton,John F. Kennedy
+29,Who was the twenty-ninth President of the United States of America?,Warren G. Harding,Jimmy Carter,Jimmy Carter,Bill Clinton
+30,Who was the thirtieth President of the United States of America?,Calvin Coolidge,Ulysses S. Grant,Andrew Johnson,James Madison
+31,Who was the thirty-first President of the United States of America?,Herbert Hoover,Millard Fillmore,Jimmy Carter,Lyndon B. Johnson
+32,Who was the thirty-second President of the United States of America?,Franklin D. Roosevelt,Lyndon B. Johnson,John Quincy Adams,John Quincy Adams
+33,Who was the thirty-third President of the United States of America?,Harry S. Truman,James A. Garfield,George W. Bush,Bill Clinton
+34,Who was the thirty-fourth President of the United States of America?,Dwight D. Eisenhower,James Monroe,Ronald Reagan,John F. Kennedy
+35,Who was the thirty-fifth President of the United States of America?,John F. Kennedy,Benjamin Harrison,James A. Garfield,Gerald Ford
+36,Who was the thirty-sixth President of the United States of America?,Lyndon B. Johnson,Millard Fillmore,Thomas Jefferson,Andrew Jackson
+37,Who was the thirty-seventh President of the United States of America?,Richard Nixon,Chester A. Arthur,Andrew Johnson,Thomas Jefferson
+38,Who was the thirty-eighth President of the United States of America?,Gerald Ford,Grover Cleveland,Andrew Johnson,Ronald Reagan
+39,Who was the thirty-ninth President of the United States of America?,Jimmy Carter,Andrew Jackson,Jimmy Carter,Rutherford B. Hayes
+40,Who was the fortieth President of the United States of America?,Ronald Reagan,Herbert Hoover,Thomas Jefferson,Millard Fillmore
+41,Who was the forty-first President of the United States of America?,George H. W. Bush,John F. Kennedy,Herbert Hoover,Ulysses S. Grant
+42,Who was the forty-second President of the United States of America?,Bill Clinton,Grover Cleveland,Theodore Roosevelt,James K. Polk
+43,Who was the forty-third President of the United States of America?,George W. Bush,Andrew Johnson,Andrew Jackson,Franklin D. Roosevelt
+44,Who was the forty-fourth President of the United States of America?,Barack Obama,Franklin D. Roosevelt,Harry S. Truman,Lyndon B. Johnson
+45,Who was the forty-fifth President of the United States of America?,Donald Trump,Warren G. Harding,Dwight D. Eisenhower,Woodrow Wilson
+46,Who was the forty-sixth President of the United States of America?,Joe Biden,Donald Trump,Bill Clinton,Barack Obama
