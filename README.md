@@ -34,3 +34,9 @@ x import os
 x Create the class quiz
 x create the constructor
 x create a method to scan file in quizzes folder, this is our list of quizzes
+x add frame for displaying the result
+x add bg image functionality
+x fix formatting, button offset, create frame for the result
+x add frame_b to move the next and end quiz button to it's own frame
+x display result frame, add quit button, end button renamed
+  merge classes, add method, frame for opening menu into class Quiz

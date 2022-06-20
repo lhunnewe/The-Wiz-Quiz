@@ -75,10 +75,10 @@ class quiz:
         label_hdr=Label(self.frame_result,text='The Wiz Quiz Results',font=('Times',18))  #Label that goes inside the header with Text
         label_hdr.place(relx=0.00,rely=0,relwidth=1.0,relheight=0.15)  #xy and relative width and height to the frame
         
-        self.frame_p=Frame(root,bd=5, highlightbackground="black", highlightthickness=2, bg="gray")
+        self.frame_p=Frame(root,bd=5, highlightbackground="black", highlightthickness=2, bg="gray")  #frame_p is the primary quiz frame for displaying the question and possible answers
         self.frame_p.place(relx=0.05,rely=0.05,relwidth=0.90,relheight=.35)
         
-        self.frame_b=Frame(root,bd=5, highlightbackground="black", highlightthickness=2, bg="gray")
+        self.frame_b=Frame(root,bd=5, highlightbackground="black", highlightthickness=2, bg="gray")  #frame_b is the bottom frame for the next and end quiz button
         self.frame_b.place(relx=0.05,rely=0.75,relwidth=0.90,relheight=.10)
 
         self.active_quiz = active_quiz
