@@ -13,10 +13,6 @@ If you have a background picture, save it in the quizzes folder alongside the cs
 ------------------------
 Project Overview
 ------------------------
-Default questionnaire will be for all the Presidents to memorize them in ascending order using tKinter
-○ Description:</br>
-	A quiz of learning in ascending order the Presidents of the United States utilizing tKinter.
-○ Technical Details: </br>
 	The main objective of this project is to use OOP and tKinter. The quiz would have a Menu, a game layout and a ending stats screen. 
 	
 	The data would be just like sample #5, Quiz Application, where the user can create a test simply by uploading a text file.
