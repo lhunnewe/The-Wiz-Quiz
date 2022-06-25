@@ -21,7 +21,7 @@ Project Overview
 	
 	I titled this game "A Presidential Dinner" as my uncle used to quiz the Presidents to me in ascending order at dinner time when I was a teenager. They are some of my favorite memories.
 
-Check out my videos of The Wiz Quiz tKinter Application</br>
+# Check out my videos of The Wiz Quiz tKinter Application</br>
 [![The Wiz Quiz Overview of Project](https://img.youtube.com/vi/ouzRJ63tgUY/maxresdefault.jpg)](https://youtu.be/ouzRJ63tgUY)
 
 [![The Wiz Quiz Coding Review](https://img.youtube.com/vi/kVteTCMs45Y/maxresdefault.jpg)](https://youtu.be/kVteTCMs45Y)
