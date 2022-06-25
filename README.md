@@ -14,9 +14,9 @@ If you have a background picture, save it in the quizzes folder alongside the cs
 Project Overview
 ------------------------
 Default questionnaire will be for all the Presidents to memorize them in ascending order using tKinter
-○ Description:
+○ Description:</br>
 	A quiz of learning in ascending order the Presidents of the United States utilizing tKinter.
-○ Technical Details:
+○ Technical Details: </br>
 	The main objective of this project is to use OOP and tKinter. The quiz would have a Menu, a game layout and a ending stats screen. 
 	
 	The data would be just like sample #5, Quiz Application, where the user can create a test simply by uploading a text file.
@@ -25,19 +25,7 @@ Default questionnaire will be for all the Presidents to memorize them in ascendi
 	
 	I titled this game "A Presidential Dinner" as my uncle used to quiz the Presidents to me in ascending order at dinner time when I was a teenager. They are some of my favorite memories.
 
-------------------------
-TASKS
-------------------------
-x create the quiz.py file
-x import tKinter
-x import os
-x Create the class quiz
-x create the constructor
-x create a method to scan file in quizzes folder, this is our list of quizzes
-x create a class for displaying the possible quizzes with a submit button to start the quiz
-x add frame for displaying the result
-x add bg image functionality
-x fix formatting, button offset, create frame for the result
-x add frame_b to move the next and end quiz button to it's own frame
-x display result frame, add quit button, end button renamed
-  merge classes, add method, frame for opening menu into class Quiz
+Check out my video overview of the program </br>
+[![Overview of Project](https://img.youtube.com/vi/ouzRJ63tgUY/maxresdefault.jpg)](https://youtu.be/ouzRJ63tgUY)
+
+
